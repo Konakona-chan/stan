@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Частная Военная Компания СТАН</title>
+    <link href="https://konakona-chan.github.io/stan/feed.xml" rel="self" />
+    <link href="https://konakona-chan.github.io/stan" />
+    <updated>2022-03-28T18:15:31+03:00</updated>
+    <author>
+        <name>Секретный автор</name>
+    </author>
+    <id>https://konakona-chan.github.io/stan</id>
+
+    <entry>
+        <title>Добро пожаловать</title>
+        <author>
+            <name>Секретный автор</name>
+        </author>
+        <link href="https://konakona-chan.github.io/stan/dobro-pozhalovat.html"/>
+        <id>https://konakona-chan.github.io/stan/dobro-pozhalovat.html</id>
+
+        <updated>2022-03-28T18:15:31+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Здесь кое-что написано! Это кое-что очень важно прочитать!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Здесь кое-что написано! Это кое-что очень важно прочитать!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

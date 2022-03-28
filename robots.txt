@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://konakona-chan.github.io/stan/sitemap.xml

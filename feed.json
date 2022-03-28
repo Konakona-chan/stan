@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Частная Военная Компания СТАН",
+    "description": "",
+    "home_page_url": "https://konakona-chan.github.io/stan",
+    "feed_url": "https://konakona-chan.github.io/stan/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Секретный автор"
+    },
+    "items": [
+        {
+            "id": "https://konakona-chan.github.io/stan/dobro-pozhalovat.html",
+            "url": "https://konakona-chan.github.io/stan/dobro-pozhalovat.html",
+            "title": "Добро пожаловать",
+            "summary": "Здесь кое-что написано! Это кое-что очень важно прочитать!",
+            "content_html": "<p>Здесь кое-что написано! Это кое-что очень важно прочитать!</p>",
+            "author": {
+                "name": "Секретный автор"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-28T18:15:31+03:00",
+            "date_modified": "2022-03-28T18:15:31+03:00"
+        }
+    ]
+}
